@@ -1,5 +1,7 @@
 # Blogging-Platform-API
 
+https://roadmap.sh/projects/blogging-platform-api
+
 📖 Project Description
 
 This project is a backend blogging application developed with Spring Boot.
